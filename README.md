@@ -1,6 +1,6 @@
 # flutterriverpod
 
-A new Flutter project.
+This Flutter app demonstrates a simple modular clean architecture using Riverpod for state management
 
 ## Getting Started
 
